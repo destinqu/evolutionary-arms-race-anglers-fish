@@ -25,10 +25,9 @@
 | File | Description |
 |------|-------------|
 | `manuscript.pdf` | Full research paper |
-| `figures/` | Supplementary figures |
 | `CITATION.cff` | Citation metadata |
 | `LICENSE` | CC-BY 4.0 License |
-
+| `fig1_evolutionary_trajectory_v2.png ` | Supplementary figures |
 ---
 
 ## 📊 Figure 1: Evolutionary Trajectory
@@ -63,7 +62,7 @@
 ```
 Xiao, L., & Angler, O. (2026). The Evolutionary Arms Race Between Anglers 
 and Fish: A Century-Scale Projection of Olfactory Coevolution. Zenodo. 
-https://doi.org/10.5281/zenodo.XXXXXXX
+[https://doi.org/10.5281/zenodo.19567705]
 ```
 
 ### BibTeX
