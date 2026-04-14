@@ -33,7 +33,7 @@
 
 ## 📊 Figure 1: Evolutionary Trajectory
 
-![Figure 1](figures/fig1_evolutionary_trajectory_v2.png)
+![Figure 1](fig1_evolutionary_trajectory_v2.png)
 
 *Evolutionary trajectory of fish olfactory response to tobacco odor over century-scale coevolution.*
 
