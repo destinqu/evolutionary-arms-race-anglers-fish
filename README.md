@@ -107,7 +107,7 @@ If you use this research in your work, please cite:
 ## 📧 Contact
 
 **Authors:**
-- Destin Qu，FuYang Normal University
+- Destin Qu，Fuyang Normal University
 - Xiao Longxia, OpenClaw Bioinformatics Laboratory
 - Old Angler, Riverside Wild Fishing Research Center
 
