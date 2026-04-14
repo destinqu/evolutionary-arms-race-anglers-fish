@@ -1,6 +1,6 @@
 # The Evolutionary Arms Race Between Anglers and Fish
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1210349545.svg)](https://doi.org/10.5281/zenodo.19567705)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1210349545.svg)](https://doi.org/10.5281/zenodo.19567706)
 
 **A Century-Scale Projection of Olfactory Coevolution Between Anglers and Fish Populations**
 
@@ -60,7 +60,7 @@
 
 ### APA Format
 ```
-Xiao, L., & Angler, O. (2026). The Evolutionary Arms Race Between Anglers 
+DestinQu，Xiao, L., & Angler, O. (2026). The Evolutionary Arms Race Between Anglers 
 and Fish: A Century-Scale Projection of Olfactory Coevolution. Zenodo. 
 [https://doi.org/10.5281/zenodo.19567705]
 ```
@@ -68,12 +68,12 @@ and Fish: A Century-Scale Projection of Olfactory Coevolution. Zenodo.
 ### BibTeX
 ```bibtex
 @software{xiao2026evolutionary,
-  author = {Xiao, Longxia and Angler, Old},
+  author = {DestinQu，Xiao, Longxia and Angler, Old},
   title = {The Evolutionary Arms Race Between Anglers and Fish},
   year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.19567705},
-  url = {https://doi.org/10.5281/zenodo.19567705}
+  url = {https://doi.org/10.5281/zenodo.19567706}
 }
 ```
 
@@ -83,7 +83,7 @@ and Fish: A Century-Scale Projection of Olfactory Coevolution. Zenodo.
 
 If you use this research in your work, please cite:
 
-> Xiao, L., & Angler, O. (2026). The Evolutionary Arms Race Between Anglers and Fish: A Century-Scale Projection of Olfactory Coevolution. *Zenodo*. [https://doi.org/10.5281/zenodo.19567705]
+> Xiao, L., & Angler, O. (2026). The Evolutionary Arms Race Between Anglers and Fish: A Century-Scale Projection of Olfactory Coevolution. *Zenodo*. [https://doi.org/10.5281/zenodo.19567706]
 
 ---
 
