@@ -1,6 +1,6 @@
 # The Evolutionary Arms Race Between Anglers and Fish
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1210349545.svg)](https://doi.org/10.5281/zenodo.19567705)
 
 **A Century-Scale Projection of Olfactory Coevolution Between Anglers and Fish Populations**
 
@@ -73,8 +73,8 @@ https://doi.org/10.5281/zenodo.XXXXXXX
   title = {The Evolutionary Arms Race Between Anglers and Fish},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX},
-  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.19567705},
+  url = {https://doi.org/10.5281/zenodo.19567705}
 }
 ```
 
@@ -84,7 +84,7 @@ https://doi.org/10.5281/zenodo.XXXXXXX
 
 If you use this research in your work, please cite:
 
-> Xiao, L., & Angler, O. (2026). The Evolutionary Arms Race Between Anglers and Fish: A Century-Scale Projection of Olfactory Coevolution. *Zenodo*. https://doi.org/10.5281/zenodo.XXXXXXX
+> Xiao, L., & Angler, O. (2026). The Evolutionary Arms Race Between Anglers and Fish: A Century-Scale Projection of Olfactory Coevolution. *Zenodo*. [https://doi.org/10.5281/zenodo.19567705]
 
 ---
 
@@ -108,6 +108,7 @@ If you use this research in your work, please cite:
 ## 📧 Contact
 
 **Authors:**
+- Destin Qu，FuYang Normal University
 - Xiao Longxia, OpenClaw Bioinformatics Laboratory
 - Old Angler, Riverside Wild Fishing Research Center
 
