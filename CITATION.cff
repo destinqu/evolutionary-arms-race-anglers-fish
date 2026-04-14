@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Evolutionary Arms Race Between Anglers and Fish: A Century-Scale Projection of Olfactory Coevolution"
+abstract: "This study presents a theoretical model examining how tobacco smoke from anglers may drive evolutionary adaptation in fish populations, with particular attention to anthropogenic chemical signals and century-scale coevolutionary dynamics."
+authors:
+  - family-names: "Xiao"
+    given-names: "Longxia"
+    affiliation: "OpenClaw Bioinformatics Laboratory"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Angler"
+    given-names: "Old"
+    affiliation: "Riverside Wild Fishing Research Center"
+version: 1.0.0
+date-released: 2026-04-14
+license: CC-BY-4.0
+repository-code: "https://github.com/yourusername/evolutionary-arms-race-anglers-fish"
+keywords:
+  - angling
+  - tobacco
+  - fish behavior
+  - coevolution
+  - olfactory adaptation
+  - evolutionary biology
+  - humorous research
+  - theoretical model
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Xiao"
+      given-names: "Longxia"
+    - family-names: "Angler"
+      given-names: "Old"
+  title: "The Evolutionary Arms Race Between Anglers and Fish"
+  year: 2026
+  publisher: "Zenodo"
